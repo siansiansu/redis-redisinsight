@@ -1,5 +1,11 @@
 # redis-redisinsight
-offline memory analysis of Redis
+
+Provide offline memory analysis of Redis
+
+## Prerequisites
+
+- [docker](https://docs.docker.com/get-docker/)
+- [docker-compose](https://docs.docker.com/compose/install/)
 
 ## Usage
 
@@ -14,6 +20,10 @@ Remove resources
 ```bash
 make down
 ```
+
+## References
+
+- [Memory analysis | Redis Documentation Center](https://docs.redis.com/latest/ri/using-redisinsight/memory-analysis/)
 
 ## Contact Me
 
