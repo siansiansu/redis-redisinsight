@@ -1,0 +1,7 @@
+.DS_Store
+*.db
+*.log
+rsnaps
+bulk_operation
+dropbox
+profiler_logs
